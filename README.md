@@ -1,4 +1,3 @@
-Classification
 Classification is a fundamental task in machine learning, where the goal is to assign input data to one of several predefined categories or classes. This technique is widely used in various applications, such as image recognition, spam detection, and medical diagnosis. Classification models learn from labeled data, making predictions by recognizing patterns and features within the input data.
 
 The Problem with Multi-Class Classification
